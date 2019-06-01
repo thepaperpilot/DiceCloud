@@ -1,0 +1,11 @@
+.field {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.field-title {
+    margin: 0;
+    margin-right: 5px;
+    flex-grow: 1;
+    white-space: nowrap;
+}
